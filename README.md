@@ -1,5 +1,4 @@
-# imortant paper to read in deep learning.
-
+# Important paper to read in deep learning.
 
 ⭐️⭐️⭐️: You must read
 
